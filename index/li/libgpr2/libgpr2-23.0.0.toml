@@ -5,7 +5,7 @@ authors = ["AdaCore"]
 licenses = "Apache-2.0"
 maintainers = ["chouteau@adacore.com"]
 maintainers-logins = ["Fabien-Chouteau"]
-project-files = ["gpr2.gpr"]
+project-files = ["gpr2.gpr", "bindings/c/gpr2-c.gpr"]
 
 [configuration]
 disabled = true
